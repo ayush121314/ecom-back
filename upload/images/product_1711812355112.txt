@@ -1,0 +1,34 @@
+Big work-:
+descreption reviews coloumn in product page :time 2:13
+login page
+Payment feature--proceed to checkout[Compulsary]
+newsletter subscribe [Compulsary]
+Sort by button and showing [Compulsary]
+Wishlist
+size allocation from cart
+while signing in store the preovious data
+google sign in
+admin login/logut
+
+Small work-:
+use redux in add to cart item
+new collection in item show some of them
+check now and exclusive button [Compulsary]
+Footer upgrade [Compulsary]
+explore more button [Compulsary]
+admin pannel manage products always
+cart data max 300 show in cart page
+accept terms and condition
+
+Next work-:
+payment feature
+toaster
+/...........
+hide size allocation/button/admin
+footer upgrade
+deployment
+notes make 
+
+while notes
+header use
+token verification

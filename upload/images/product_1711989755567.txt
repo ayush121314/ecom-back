@@ -1,0 +1,14 @@
+cd frontend
+npm run start
+
+cd admin
+npm run dev
+
+cd backend
+node ./index.js
+
+
+
+while notes
+header use
+token verification
