@@ -225,8 +225,13 @@ app.post("/getcartdata", fetchuser, async (req, res) => {
   res.json(userData.cartData);
   // console.log(userData.cartData)
 });
-
-// const stripe = require("stripe")(sec);
+app.use(cors({
+  origin: 'https://opencart-sigma.vercel.app',
+  credentials: true,
+}));
+app.get('/', (req, res) => {
+  res.send("Running on port 4040");
+});// const stripe = require("stripe")(sec);
 // app.post("/makepay", async (req, res) => {
 //   const data = req.body.newdata;
 //   const linedata = data.map((prod) => ({
